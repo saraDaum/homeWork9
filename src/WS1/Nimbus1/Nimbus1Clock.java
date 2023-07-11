@@ -4,7 +4,6 @@
 * I didn't finish...
 * I tried to do what I can...
 */
-
 package WS1.Nimbus1;
 
 import WS1.Observables.Observable;
