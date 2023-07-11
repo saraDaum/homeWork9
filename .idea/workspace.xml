@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78d98359-1b9c-43bf-8b63-d12e0a1b4151" name="Changes" comment="---">
-      <change beforePath="$PROJECT_DIR$/src/WS1/Nimbus1/Nimbus1Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WS1/Nimbus1/Nimbus1Clock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WS1/Nimbus1/RandomSupplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WS1/Nimbus1/RandomSupplier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WS1/Observables/AlarmClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WS1/Observables/AlarmClock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WS1/Observables/AlarmclockRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WS1/Observables/AlarmClockRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WS1/System/MainClassWS1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WS1/System/MainClassWS1.java" afterDir="false" />
+    <list default="true" id="78d98359-1b9c-43bf-8b63-d12e0a1b4151" name="Changes" comment="Add code and fix errors">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WS1/Observables/Sensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WS1/Observables/Sensor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689070613137</updated>
-      <workItem from="1689070614200" duration="1348000" />
+      <workItem from="1689070614200" duration="3024000" />
     </task>
     <task id="LOCAL‎-00001" summary="All Files">
       <option name="closed" value="true" />
@@ -96,7 +93,15 @@
       <option name="project" value="LOCAL‎" />
       <updated>1689071397933</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL‎-00005" summary="Add code and fix errors">
+      <option name="closed" value="true" />
+      <created>1689072600718</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL‎-00005" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1689072600718</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +111,9 @@
     <MESSAGE value="All Files" />
     <MESSAGE value="Load all files to sync with Malka" />
     <MESSAGE value="---" />
-    <option name="LAST_COMMIT_MESSAGE" value="---" />
+    <MESSAGE value="Add code to files" />
+    <MESSAGE value="Add code and fix errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add code and fix errors" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
