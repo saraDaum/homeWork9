@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78d98359-1b9c-43bf-8b63-d12e0a1b4151" name="Changes" comment="Add code to Sensor class">
+    <list default="true" id="78d98359-1b9c-43bf-8b63-d12e0a1b4151" name="Changes" comment="Add code to some sensor classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WS1/Nimbus1/Nimbus1PressureSensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WS1/Nimbus1/Nimbus1PressureSensor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WS1/Nimbus1/Nimbus1TemperatureSensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WS1/Nimbus1/Nimbus1TemperatureSensor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WS1/Observables/PressureTrendSensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WS1/Observables/PressureTrendSensor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WS1/Observers/LogPressTrendObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WS1/Observers/LogPressTrendObserver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689070613137</updated>
-      <workItem from="1689070614200" duration="4603000" />
+      <workItem from="1689070614200" duration="8361000" />
     </task>
     <task id="LOCAL‎-00001" summary="All Files">
       <option name="closed" value="true" />
@@ -112,7 +108,15 @@
       <option name="project" value="LOCAL‎" />
       <updated>1689076277510</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL‎-00007" summary="Add code to some sensor classes">
+      <option name="closed" value="true" />
+      <created>1689077768655</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL‎-00007" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1689077768655</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +129,8 @@
     <MESSAGE value="Add code to files" />
     <MESSAGE value="Add code and fix errors" />
     <MESSAGE value="Add code to Sensor class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add code to Sensor class" />
+    <MESSAGE value="Add code to some sensor classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add code to some sensor classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -14,6 +14,7 @@ public class Nimbus1TemperatureSensor extends Sensor {
 
     @Override
     public int read(){
-        return 0;
+        return new Random().nextInt(0,40);
+
     }
 }

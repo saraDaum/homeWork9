@@ -12,6 +12,7 @@ public class Nimbus1PressureSensor extends Sensor {
 
     @Override
     public int read() {
-        return 0;
+        return new Random().nextInt(950,1050);
+
     }
 }
