@@ -1,10 +1,17 @@
 package WS1.System;
+import WS1.Observables.WeatherMonitoringSystem;
+import WS1.Observers.Log;
+import WS1.Observers.MonitoringScreen;
 
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
-public class MainClassWS1 {
+public class MainClassWS1
+{
     public static void main(String[] args) {
-        System.out.println("Hello!");
+        WeatherMonitoringSystem ws = WeatherMonitoringSystem.theInstance();
 
-        }
+        //TODO Fix this error
+       // MonitoringScreen p_MonitorScreen = new MonitoringScreen(ws);
+        //TODO Fix this error
+       // Log p_log = new Log(ws);
+
     }
+}
